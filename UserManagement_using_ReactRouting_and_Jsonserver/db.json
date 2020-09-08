@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "ashish",
+      "username": "ashish123",
+      "email": "ashish@gmail.com",
+      "phone": "1234567345",
+      "website": "ashish.com",
+      "id": 11
+    },
+    {
+      "name": "karan",
+      "username": "KumarAshi",
+      "email": "ashish@gmail.com",
+      "phone": "98765347764",
+      "website": "karan.com",
+      "id": 12
+    },
+    {
+      "name": "Komal",
+      "username": "komal12",
+      "email": "Komal12@gmail.com",
+      "phone": "98765347764",
+      "website": "komal.com",
+      "id": 14
+    },
+    {
+      "name": "karan",
+      "username": "karan123",
+      "email": "karan567@gmail.com",
+      "phone": "87656787645",
+      "website": "karan.com",
+      "id": 15
+    },
+    {
+      "name": "kajal",
+      "username": "kajal123",
+      "email": "kajal@gmail.com",
+      "phone": "87656787645",
+      "website": "kajal.com",
+      "id": 16
+    }
+  ]
+}
